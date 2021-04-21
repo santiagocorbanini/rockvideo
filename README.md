@@ -1,7 +1,3 @@
-# rockvideo
-
-Live site: https://rock-video.netlify.app/
-
 # RockVideo
 
 ## Overview
